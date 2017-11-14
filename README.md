@@ -1,2 +1,1 @@
-# chatbot-web
-Example using chatbot in the web
+# Chatbot Web
